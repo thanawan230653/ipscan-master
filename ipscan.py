@@ -117,8 +117,8 @@ Options:
   -u <ip/url>   Target IP
 
 Examples:
-  python3 ipscan.py -au -u 49.228.131.69
-  python3 ipscan.py -p 22 -u 49.228.131.69
+  python3 ipscan.py -au -u 192.168.1.1
+  python3 ipscan.py -p 22 -u 192.168.1.1
 """)
 
 def main():
